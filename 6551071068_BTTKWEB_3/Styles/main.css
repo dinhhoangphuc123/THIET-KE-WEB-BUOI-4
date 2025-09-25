@@ -1,0 +1,26 @@
+
+.title {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.section {
+    color: brown;
+    font-weight: bold;
+}
+
+
+.sub-list {
+    color: blue;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+
+.contact {
+    color: blue;
+    margin-top: 20px;
+    font-weight: bold;
+}

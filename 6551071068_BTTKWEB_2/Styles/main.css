@@ -1,0 +1,18 @@
+
+.title {
+    color: brown;
+    text-align: center;
+}
+
+
+.highlight {
+    color: brown;
+}
+
+
+.code-block {
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Consolas, monospace;
+}
